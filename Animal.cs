@@ -1,6 +1,6 @@
 using System;
 
-    class Animal
+    public class Animal
     {
         public string Name { get; set; }
 
